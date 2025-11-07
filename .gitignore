@@ -1,4 +1,4 @@
 /.venv
 /data/database.sqlite3
 /data/run_schema
-/data/database.db
+/data/visualisations/vehicle_age_distribution_vehicle.png
