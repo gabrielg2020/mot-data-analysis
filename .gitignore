@@ -2,3 +2,6 @@
 /data/database.sqlite3
 /data/run_schema
 /data/visualisations/vehicle_age_distribution_vehicle.png
+/data/visualisations/hypothesis_visualisation.png
+/data/statistical_analysis_summary.txt
+.env

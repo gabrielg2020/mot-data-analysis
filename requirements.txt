@@ -4,3 +4,5 @@ matplotlib
 seaborn
 sqlalchemy
 faker
+pathlib
+scipy
